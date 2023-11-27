@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "Accno": "a@gmail.com",
+      "phoneno": "12345678",
+      "id": 1
+    },
+    {
+      "Accno": "A@gmail.com",
+      "phoneno": "asdfghj8ki",
+      "id": 2
+    },
+    {
+      "Accno": "A@gmail.com",
+      "phoneno": "asdfghjklmvde",
+      "id": 3
+    },
+    {
+      "Accno": "asdfgh@gmail.com",
+      "phoneno": "qwertyui",
+      "id": 4
+    }
+  ]
+}
